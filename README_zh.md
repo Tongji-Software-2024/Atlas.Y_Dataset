@@ -1,7 +1,5 @@
 # Atlas.Y 数据集
 
-> Atlas.Y 数据集遵循 [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 许可证](https://creativecommons.org/licenses/by-nc/4.0)。您可以自由共享和修改数据集，但仅限于非商业用途，并且您必须注明原作者。如果您希望将本数据集用于商业用途，请[联系我们](mailto:tongji_china2019@163.com)以获取许可。
-
 [English](README.md) | 简体中文
 
 ## 信号肽数据集
